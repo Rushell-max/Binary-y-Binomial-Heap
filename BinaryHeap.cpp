@@ -4,9 +4,8 @@
  
 
 using namespace std;
-// Implementar un max_heap
-template<class T>
 
+template<class T>
 class Heap
 {
     private: 
